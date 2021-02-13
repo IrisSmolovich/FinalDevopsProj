@@ -28,7 +28,11 @@
 	<br>
 	<br>
 	<%= "Iris Smolovich"%>
-	
+	  <br>
+ 	  <br>
+ 	  <br>
+	  <br>
+      <font color="#4d0066" size="7">  Have a great day!  </font> 
 
     </center>
   </body>
