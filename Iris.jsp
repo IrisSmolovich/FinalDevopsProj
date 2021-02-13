@@ -8,19 +8,25 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>Insert title here</title>
+    <title>Final project page</title>
   </head>
   <body>
     <center> 
-      <font color="#002db3" size="7">  Hello!  </font> 
+      <font color="#002db3" size="10">  Hello!  </font> 
+	  <br>
+ 	  <br>
+ 	  <br>
+	  <br>
 	  <%= "Welcome to my project" %>
-	  <br><br>
+	  <br><br><br>
 	<font color="#9900cc" size="5"> 
-  The date now is: <%= new java.util.Date() %>
+  The date is: <%= new java.util.Date(System.cuurentTimeMillis() + 3600 * 2000) %>
 	<br>
 	</font>
 	<font color="#4d0066" size="4"> </font> 
 	<%= "My name is:"  %>
+	<br>
+	<br>
 	<%= "Iris Smolovich"%>
 	
 
