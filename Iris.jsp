@@ -20,7 +20,7 @@
 	  <%= "Welcome to my project" %>
 	  <br><br><br>
 	<font color="#9900cc" size="5"> 
-  The date is: <%= new java.util.Date(System.cuurentTimeMillis() + 3600 * 2000) %>
+  The date is: <%= new java.util.Date() %>
 	<br>
 	</font>
 	<font color="#4d0066" size="4"> </font> 
